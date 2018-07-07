@@ -1,0 +1,10 @@
+ONE SENTENCE:
+A fun way to learn about [NAME] with facts!
+
+DETAILED:
+The skill is very simple: you ask for a fact and it gives you one. It is for anyone to learn about [NAME]. There are no hardware or account prerequisites.
+
+Example Phrases:
+Alexa, ask fun [NAME] tell me a fact.
+Alexa, ask fun [NAME] tell me trivia.
+Alexa, ask fun [NAME] give me trivia.

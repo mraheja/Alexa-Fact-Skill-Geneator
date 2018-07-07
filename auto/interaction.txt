@@ -1,0 +1,45 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "fun [NAME]",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "a fact",
+            "a space fact",
+            "tell me a fact",
+            "tell me a [NAME] fact",
+            "give me a fact",
+            "give me a [NAME] fact",
+            "tell me trivia",
+            "tell me a [NAME] trivia",
+            "give me trivia",
+            "give me a [NAME] trivia",
+            "give me some information",
+            "give me some [NAME] information",
+            "tell me something",
+            "give me something"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}
